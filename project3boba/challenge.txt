@@ -1,0 +1,5 @@
+Milk Tea Challenge, 3, 50
+Yogurt Tea Challenge, 2, 40
+Strawberry Milk Tea Challenge, 4, 60
+Taro Milk Tea Challenge, 3, 50
+Thai Milk Tea Challenge, 5, 80
